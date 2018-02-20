@@ -1,5 +1,5 @@
 import os
 import sys
 
-print("ok")
+print("yes")
 
